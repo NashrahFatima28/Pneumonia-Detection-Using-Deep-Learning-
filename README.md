@@ -1,14 +1,14 @@
 # Pneumonia-Detection-Using-Deep-Learning-
 This project implements a Convolutional Neural Network (CNN) for detecting pneumonia from chest X-ray images using deep learning techniques.
 
-📌 Project Overview
+#📌 Project Overview
 Pneumonia is a lung infection that can be life-threatening if not diagnosed early. This project uses CNN-based models to automatically detect pneumonia from chest X-rays, potentially assisting radiologists in faster and more accurate diagnosis.
 
-🔍 Objective
+#🔍 Objective
 Detect pneumonia from chest X-ray images using CNNs.
 Achieve high accuracy and low false-negative rates.
 Compare performance with different architectures (e.g., custom CNN, VGG16, ResNet50).
-🧠 Technologies Used
+#🧠 Technologies Used
 Python
 TensorFlow / Keras or PyTorch
 OpenCV / PIL
@@ -33,7 +33,7 @@ model.h5
 app.py
 templates
 static
-🚀 How to Run
+#🚀 How to Run
 1. Install Dependencies
 
 pip install -r requirements.txt
