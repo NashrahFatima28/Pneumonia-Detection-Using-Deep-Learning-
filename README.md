@@ -47,8 +47,8 @@ Extract into the data/ directory
 4. Evaluate the Model
 
 # Result
-Metric	Value
-Accuracy	94.5%
-Precision	93.8%
-Recall	95.2%
-F1 Score	94.5%
+# Metric	Value
+# Accuracy	94.5%
+# Precision	93.8%
+# Recall	95.2%
+# F1 Score	94.5%
